@@ -1,17 +1,17 @@
 ---
-title: "p80105_hw4_sw3866"
-author: "Siyan Wen"
-date: "2023-10-30"
-output: github_document
+title: "Homework4"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+    
 ---
+## Personal Website 
+### Link
+[Website](website.html)
 
-```{r}
-
-```
-
-## Personal Website  
-
-## flexdashboard
+## Flexdashboard
 
 
 
